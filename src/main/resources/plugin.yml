@@ -1,0 +1,4 @@
+name: SkirmishMod
+version: '${project.version}'
+main: org.skirmish.plugin.SkirmishMod
+authors: [ ArtificialIndi ]
